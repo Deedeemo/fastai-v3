@@ -1,5 +1,6 @@
 body {
-    background-color: #464141;
+    background-color: #1A1210 ;
+    text = "white";
     font-family: 'Source Sans Pro', sans-serif;
 }
 
@@ -88,10 +89,10 @@ button.choose-file-button {
     width: 200px;
     height: 40px;
     border-radius: 2px;
-    background-color: #ffffff;
+    background-color: #797473;
     border: solid 1px rgb(14, 10, 26);
     font-size: 13px;
-    color: rgb(235, 233, 243);
+    color: #797473;
     display: inline-block;
     vertical-align: middle;
 /* float: right; */
@@ -101,11 +102,11 @@ button.choose-file-button {
 button.analyze-button {
     width: 200px;
     height: 40px;
-    border: solid 1px rgb(237, 235, 241);
+    border: solid 1px #797473;
     border-radius: 2px;
-    background-color: rgb(232, 230, 240);
+    background-color: #797473;
     font-size: 13px;
-    color: #e4dede;
+    color: #797473;
     vertical-align: middle;
 }
 
