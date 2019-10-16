@@ -1,6 +1,5 @@
 body {
     background-color: #1A1210 ;
-    text = "white";
     font-family: 'Source Sans Pro', sans-serif;
 }
 
@@ -45,7 +44,7 @@ body {
     font-size: 30px;
     margin-top: 1em;
     margin-bottom: 1em;
-    color: #262626;
+    color: rgb(253, 251, 253);
 }
 
 .content {
@@ -92,7 +91,7 @@ button.choose-file-button {
     background-color: #797473;
     border: solid 1px rgb(14, 10, 26);
     font-size: 13px;
-    color: #797473;
+    color: #1A1210;
     display: inline-block;
     vertical-align: middle;
 /* float: right; */
@@ -106,7 +105,7 @@ button.analyze-button {
     border-radius: 2px;
     background-color: #797473;
     font-size: 13px;
-    color: #797473;
+    color: #1A1210;
     vertical-align: middle;
 }
 
